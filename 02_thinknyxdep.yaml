@@ -4,7 +4,7 @@ metadata:
   labels:
     app: thinknyxdemo
   name: thinknyxdemo
-  namespace: stest
+  namespace: sautotest
 spec:
   replicas: 2
   selector:
